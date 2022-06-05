@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\criptografia\\criptografia\\criptografia\\criptografia.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\criptografia\\criptografia\\criptografia\\criptografia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\criptografia\\criptografia\\criptografia\\criptografia.csproj",
+        "projectName": "criptografia",
+        "projectPath": "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\criptografia\\criptografia\\criptografia\\criptografia.csproj",
+        "packagesPath": "C:\\Users\\tavan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tavan\\OneDrive\\Área de Trabalho\\criptografia\\criptografia\\criptografia\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tavan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
